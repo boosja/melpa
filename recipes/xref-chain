@@ -1,0 +1,3 @@
+(xref-chain
+ :fetcher codeberg
+ :repo "boosja/xref-chain.el")
